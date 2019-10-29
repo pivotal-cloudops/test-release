@@ -28,4 +28,4 @@ instance_groups:
   vm_type: small
   stemcell: default
   networks:
-  - name: default
+  - name: cloudops
